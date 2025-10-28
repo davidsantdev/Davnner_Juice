@@ -28,7 +28,8 @@ import Button from "./ui/button/Button.vue";
             ></Github>
           </a>
           <a
-            href="mailto:davidsantosdacosta123@gmail.com?subject=Contato%20do%20portfólio&body=Olá,%20David!%20Vi%20seu%20site%20e%20gostaria%20de%20conversar."
+            href="mailto:davidsantosdacosta123@gmail.com?subject=Contato%20do%20portfólio&body=Olá,%20David!%20Vi%20seu%20site%20e%20gostaria%20de%20conversar.
+            "
           >
             <Inbox
               :size="20"
