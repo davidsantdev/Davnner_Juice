@@ -1,42 +1,47 @@
-# vue-project
+# Davnner Juice
 
-This template should help get you started developing with Vue 3 in Vite.
+**Davnner Juice** é um projeto desenvolvido como MVP de uma aplicação web voltada para visualização e filtragem de produtos.  
+O objetivo é simular o ambiente de uma loja digital moderna, com foco em experiência do usuário, performance e design limpo.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Tecnologias Utilizadas
 
-## Recommended Browser Setup
+- **Vue 3** — framework progressivo para construção de interfaces reativas.  
+- **TypeScript** — tipagem estática para maior segurança e clareza no código.  
+- **Vue Router** — navegação fluida entre páginas e componentes.  
+- **Tailwind CSS** — estilização rápida e consistente com utilitários.  
+- **Shadcn/UI** — componentes de interface elegantes e acessíveis.  
+- **Vite** — ambiente moderno de build e desenvolvimento.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Type Support for `.vue` Imports in TS
+## Objetivo
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+O **Davnner Juice** foi criado com o propósito de demonstrar a implementação de um sistema de catálogo de produtos,  
+com filtros dinâmicos, navegação intuitiva e design responsivo — ideal para lojas que desejam exibir seus itens de forma atrativa e funcional.
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Status do Projeto
 
-## Project Setup
+**MVP (Minimum Viable Product)** — o projeto está em fase inicial, com as principais funcionalidades de exibição e filtragem de produtos já implementadas.
 
-```sh
+---
+
+## Como Executar Localmente
+
+Clone o repositório e execute os comandos abaixo:
+
+```bash
+# Clonar o repositório
+git clone https://github.com/davidsantdev/intell_vue.git
+
+# Entrar na pasta do projeto
+cd intell-app
+
+# Instalar dependências
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Rodar o projeto
 npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
