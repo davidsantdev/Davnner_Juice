@@ -134,13 +134,13 @@ function adicionaAbacaxi() {
             </div>
           </DialogTrigger>
           <DialogContent class="w-[70%]">
-            <div class="flex gap-[8%]">
+            <div class="block md:flex gap-[8%]">
               <div>
                 <img src="../assets/abacaxi2.png" class="w-70" alt="" />
               </div>
 
               <div>
-                <div class="border p-4 rounded-2xl w-[80%]">
+                <div class="border p-4 rounded-2xl w-[100%] md:w-[80%]">
                   <h2 class="font-bold text-[25px]">Suco de Abacaxi 300ml</h2>
                   <div class="flex gap-2">
                     <img
@@ -190,11 +190,11 @@ function adicionaAbacaxi() {
             </div>
           </DialogTrigger>
           <DialogContent class="w-[70%]">
-            <div class="flex gap-[8%]">
+            <div class="block md:flex gap-[8%]">
               <div><img src="../assets/uva2.png" class="w-70" alt="" /></div>
 
               <div>
-                <div class="border p-4 rounded-2xl w-[80%]">
+                <div class="border p-4 rounded-2xl w-[100%] md:w-[80%]">
                   <h2 class="font-bold text-[25px]">Suco de Uva 300ml</h2>
                   <div class="flex gap-2">
                     <img
@@ -244,13 +244,13 @@ function adicionaAbacaxi() {
             </div>
           </DialogTrigger>
           <DialogContent class="w-[70%]">
-            <div class="flex gap-[8%]">
+            <div class="block md:flex gap-[8%]">
               <div>
                 <img src="../assets/maracuja2.png" class="w-70" alt="" />
               </div>
 
               <div>
-                <div class="border p-4 rounded-2xl w-[80%]">
+                <div class="border p-4 rounded-2xl w-[100%] md:w-[80%]">
                   <h2 class="font-bold text-[25px]">Suco de Maracuja 300ml</h2>
                   <div class="flex gap-2">
                     <img
@@ -300,13 +300,13 @@ function adicionaAbacaxi() {
             </div>
           </DialogTrigger>
           <DialogContent class="w-[70%]">
-            <div class="flex gap-[8%]">
+            <div class="block md:flex gap-[8%]">
               <div>
                 <img src="../assets/morango2.png" class="w-70" alt="" />
               </div>
 
               <div>
-                <div class="border p-4 rounded-2xl w-[80%]">
+                <div class="border p-4 rounded-2xl w-[100%] md:w-[80%]">
                   <h2 class="font-bold text-[25px]">Suco de Morango 300ml</h2>
                   <div class="flex gap-2">
                     <img
@@ -357,13 +357,13 @@ function adicionaAbacaxi() {
           </DialogTrigger>
 
           <DialogContent class="w-[70%]">
-            <div class="flex gap-[8%]">
+            <div class="block md:flex gap-[8%]">
               <div>
                 <img src="../assets/abacaxi2.png" class="w-70" alt="" />
               </div>
 
               <div>
-                <div class="border p-4 rounded-2xl w-[80%]">
+                <div class="border p-4 rounded-2xl w-[100%] md:w-[80%]">
                   <h2 class="font-bold text-[25px]">Suco de Abacaxi 500ml</h2>
                   <div class="flex gap-2">
                     <img
@@ -413,11 +413,11 @@ function adicionaAbacaxi() {
             </div>
           </DialogTrigger>
           <DialogContent class="w-[70%]">
-            <div class="flex gap-[8%]">
+            <div class="block md:flex gap-[8%]">
               <div><img src="../assets/uva2.png" class="w-70" alt="" /></div>
 
               <div>
-                <div class="border p-4 rounded-2xl w-[80%]">
+                <div class="border p-4 rounded-2xl w-[100%] md:w-[80%]">
                   <h2 class="font-bold text-[25px]">Suco de Uva 500ml</h2>
                   <div class="flex gap-2">
                     <img
@@ -467,13 +467,13 @@ function adicionaAbacaxi() {
             </div>
           </DialogTrigger>
           <DialogContent class="w-[70%]">
-            <div class="flex gap-[8%]">
+            <div class="block md:flex gap-[8%]">
               <div>
                 <img src="../assets/maracuja2.png" class="w-70" alt="" />
               </div>
 
               <div>
-                <div class="border p-4 rounded-2xl w-[80%]">
+                <div class="border p-4 rounded-2xl w-[100%] md:w-[80%]">
                   <h2 class="font-bold text-[25px]">Suco de Maracuja 300ml</h2>
                   <div class="flex gap-2">
                     <img
@@ -523,13 +523,13 @@ function adicionaAbacaxi() {
             </div>
           </DialogTrigger>
           <DialogContent class="w-[70%]">
-            <div class="flex gap-[8%]">
+            <div class="block md:flex gap-[8%]">
               <div>
                 <img src="../assets/morango2.png" class="w-70" alt="" />
               </div>
 
               <div>
-                <div class="border p-4 rounded-2xl w-[80%]">
+                <div class="border p-4 rounded-2xl w-[100%] md:w-[80%]">
                   <h2 class="font-bold text-[25px]">Suco de Morango 500ml</h2>
                   <div class="flex gap-2">
                     <img
